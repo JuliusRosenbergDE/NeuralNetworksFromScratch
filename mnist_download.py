@@ -3,7 +3,7 @@ import os
 import urllib
 import urllib.request
 
-# set workind directory
+# set working directory
 os.chdir('./')
 
 URL = 'https://nnfs.io/datasets/fashion_mnist_images.zip'
